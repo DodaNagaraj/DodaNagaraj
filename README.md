@@ -32,7 +32,7 @@ My work focuses on building **end-to-end analytical systems** that help teams ma
 More projects coming soon — stay tuned!
 
 ## 📫 Connect With Me
-**LinkedIn:** linkedin.com/in/yourprofile  
+**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/doda-nagaraju-a18197274/)  
 **Email:** dodanagarju1@gmail.com
 
 <!--
